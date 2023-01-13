@@ -25,6 +25,7 @@ namespace helloworld
         public MainPage()
         {
             this.InitializeComponent();
+            //this is a test
         }
     }
 }
